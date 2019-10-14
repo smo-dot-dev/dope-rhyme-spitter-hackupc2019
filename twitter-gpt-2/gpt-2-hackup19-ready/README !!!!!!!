@@ -1,0 +1,28 @@
+conda install -c conda-forge fire
+conda install tensorflow
+conda install phyme
+conda install regex
+
+python src/interactive_conditional_samples.py --top_k 40 --temperature 0.8 --model_name 2019-03-06-gwern-gpt2-poetry-projectgutenberg-network-519407 --prompt_parameter "When I woke up this morning, the sun was shining" --nsamples 1 --length 100
+forest
+Walking through the  I saw a mushroom
+
+And in the midst, a green-mantled mushroom-tod,
+A small, neat, shining plant; and in the sheaf,
+I saw a little golden ear-marks, mark'd with care,
+Printed for Those who would die for it.  And when,
+As I approach'd its verdure, I saw the field,--
+The very reaped-up harvest,--this is the page,
+The very seed-song of the green-mantled May!
+The fields,--the very clover,--the trees,--the flowers,
+The golden-crested May-time, and the breeze,--
+The trees,--the grass,--the sun,--the air,--the clouds,
+A moment, and then vanish quite away!
+And I remember, as I wander'd by,
+The very little rain-drops drop by drop,
+In the cool grass, for the first time, I thought,
+"I'll take the dry pencil, Dear, you will!"
+And I, who read, felt the cool furrow,
+And the green past, with its waving forest leaves,
+And thought it over.  Then, a slow, sweet smile
+Came from the blue eyes of the dying day,

@@ -1,0 +1,14 @@
+{
+  "name": "twitter-gpt-2",
+  "version": "1.0.0",
+  "description": "gutenberg dope spitta",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "smunozdev",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
