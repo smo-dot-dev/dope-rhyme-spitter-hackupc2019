@@ -1,4 +1,4 @@
-node_modules/*
+node_modules
 config.json
 markov_model/small_markov_model_state_2.json
 markov_model/small_markov_model_state_3.json
